@@ -1,3 +1,5 @@
 # Practica_6_Hibernate
 
-Tarea a entregar a la vuelta de vacaciones
+ESTA ES LA PRACTICA 6 DE HIBERNATE DE LA ASIGNATURA DE EDU LARA
+
+FECHA ENTREGA:11-01-2021
